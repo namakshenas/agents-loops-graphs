@@ -1,5 +1,7 @@
 # agents-loops-graphs
 
+![agents-loops-graphs](a-l-g.jpeg)
+
 A drop-in `CLAUDE.md` for repos that build AI workflows. It gives Claude Code a
 shared vocabulary for the three patterns almost every agentic system reduces to
 — **agents** (goal-driven, tool-using), **loops** (self-checking before
